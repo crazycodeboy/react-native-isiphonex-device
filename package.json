@@ -1,9 +1,8 @@
 {
     "name": "react-native-isiphonex-device",
-    "version": "2.0.0",
+    "version": "2.5.0",
     "description": "A react native module to replace DeviceInfo.isIPhoneX_deprecated.",
-    "main": "index.js",
-    "types": "index.d.ts",
+    "main": "index.ts",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
